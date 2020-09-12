@@ -1,7 +1,6 @@
-step=100
-step=110
-step=120
-step=130
-step=140
-export_step=150
-export_eps_cut=24
+step0=100
+step1=110
+step2=120
+step3=130
+step4=140
+total_export=5
