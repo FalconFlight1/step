@@ -5,4 +5,3 @@ step=130
 step=140
 export_step=150
 export_eps_cut=24
-export_npy_step=150
