@@ -6,4 +6,4 @@ step4=140
 total_export=5
 send_wechat=0
 save_png=0
-start=0
+start=1
