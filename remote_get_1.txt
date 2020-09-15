@@ -1,8 +1,8 @@
-step0=101
-step1=105
-step2=138
-step3=145
-step4=136
+step0=80
+step1=78
+step2=90
+step3=95
+step4=97
 eps_cut=24
 floor_cut=20
 total_export=5
