@@ -1,1 +1,13 @@
-
+step0=101
+step1=105
+step2=138
+step3=145
+step4=136
+eps_cut=24
+floor_cut=20
+total_export=5
+send_wechat=0
+save_png=0
+start=1
+out_dir=sim_data4
+cut_name=remote_export_control_demo
