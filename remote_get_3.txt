@@ -9,5 +9,5 @@ total_export=5
 send_wechat=0
 save_png=0
 start=1
-out_dir=sim_data4
+out_dir=sim_data3
 cut_name=remote_export_control_demo
